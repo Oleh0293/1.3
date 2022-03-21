@@ -1,0 +1,5 @@
+﻿  Money.cpp
+C:\Users\Oleh Kulyk\source\repos\lab1.3\Money.cpp(379,11): warning C4101: 'x': unreferenced local variable
+  Source.cpp
+  Generating Code...
+  lab1.3.vcxproj -> C:\Users\Oleh Kulyk\source\repos\lab1.3\Debug\lab1.3.exe
